@@ -1,8 +1,8 @@
 ﻿  ConsoleApplication1.cpp
-C:\1\ConsoleApplication1\ConsoleApplication1\ConsoleApplication1.cpp(29,35): warning C4305: инициализация: усечение из "__int64" в "int"
-C:\1\ConsoleApplication1\ConsoleApplication1\ConsoleApplication1.cpp(29,18): warning C4309: инициализация: усечение константного значения
-C:\1\ConsoleApplication1\ConsoleApplication1\ConsoleApplication1.cpp(47,42): warning C4312: приведение типов: преобразование из "DWORD" в "void *" большего размера
-C:\1\ConsoleApplication1\ConsoleApplication1\ConsoleApplication1.cpp(48,43): warning C4312: приведение типов: преобразование из "DWORD" в "void *" большего размера
-C:\1\ConsoleApplication1\ConsoleApplication1\ConsoleApplication1.cpp(30,9): warning C4101: health_value: неиспользованная локальная переменная
-C:\1\ConsoleApplication1\ConsoleApplication1\ConsoleApplication1.cpp(26,9): warning C4101: bytes: неиспользованная локальная переменная
-  ConsoleApplication1.vcxproj -> C:\1\ConsoleApplication1\x64\Debug\ConsoleApplication1.exe
+D:\hack memory address\Edit-Memory-Address\ConsoleApplication1\ConsoleApplication1.cpp(29,35): warning C4305: инициализация: усечение из "__int64" в "int"
+D:\hack memory address\Edit-Memory-Address\ConsoleApplication1\ConsoleApplication1.cpp(29,18): warning C4309: инициализация: усечение константного значения
+D:\hack memory address\Edit-Memory-Address\ConsoleApplication1\ConsoleApplication1.cpp(47,42): warning C4312: приведение типов: преобразование из "DWORD" в "void *" большего размера
+D:\hack memory address\Edit-Memory-Address\ConsoleApplication1\ConsoleApplication1.cpp(48,43): warning C4312: приведение типов: преобразование из "DWORD" в "void *" большего размера
+D:\hack memory address\Edit-Memory-Address\ConsoleApplication1\ConsoleApplication1.cpp(30,9): warning C4101: health_value: неиспользованная локальная переменная
+D:\hack memory address\Edit-Memory-Address\ConsoleApplication1\ConsoleApplication1.cpp(26,9): warning C4101: bytes: неиспользованная локальная переменная
+  ConsoleApplication1.vcxproj -> D:\hack memory address\Edit-Memory-Address\x64\Debug\ConsoleApplication1.exe
