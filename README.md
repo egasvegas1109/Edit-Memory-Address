@@ -1,2 +1,2 @@
 # Edit-Memory-Address
-Программа предназначена для получения информации из адресов памяти и их редактирование.
+The program is designed to get information from GTA SA memory addresses and edit them.
